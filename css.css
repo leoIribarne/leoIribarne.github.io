@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+width: 20vw;
+height: 20vh;
+position: absolute;
+transition: 1s linear ;
+}
+.a{
+background-color: black;
+left: 20vw;
+top: 40vw;
+}
+div:hover{
+    opacity: 0;
+}
+.b{
+background-color: aqua;
+right: 40vw;
+top: 40vw;
+} 
+.c{
+background-color: blue;
+left: 30vw;
+top: 30vw;
+}
+
+.d{
+    background-color: blueviolet;
+    left: 30vw;
+    top: 50vw;
+}
+.e{
+    background-color:brown;
+    left: 30vw;
+    top: 40vw;
+    
+}
